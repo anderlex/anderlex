@@ -14,10 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=anderlex&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30px/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi" width=30px/>
   </h1>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width=500/>
 </div>
+
+### 👨‍💻 About me:
