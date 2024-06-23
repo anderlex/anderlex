@@ -22,27 +22,22 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="500"/>
-</div>
-
 ### 👨‍💻 About me :
-I'm beginning Python and iOS-developer from Kazakhstan 🇰🇿.
-- 📐 Learning High Mathematics.
-- 👨‍🎓 Studying at NSU.
+I'm beginning Python and Swift-developer from Kazakhstan.
+- 👨‍🎓 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU).
+- 📐 Learning High Mathematics
 - 📚 Exploring problems at Kaggle.
 ---
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/visualstudio/visualstudio-plain.svg" title="Visual studio" alt="Visual studio" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🗃️ My stats :
