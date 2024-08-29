@@ -41,6 +41,6 @@ I'm intern ML-engineer and Swift-developer from Russia.
 </div>
 
 ### 🗃️ My stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderlex&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderlex&show_icons=true&theme=holi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderlex&layout=pie&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderlex&layout=pie&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
