@@ -3,19 +3,19 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/d3rleex?igsh=Z2szYmM1MTM2bTVk&utm_source=qr">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg" alt="Instagram Badge" width="64" height="64"/>
   </a>
-  <a href="your-vk-URL">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  <a href="https://t.me/and3rlex">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/telegram.svg" alt="Telegram Badge" width="64" height="64"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://discordapp.com/users/244178805894152193/">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/discord.svg" alt="Discord Badge" width="64" height="64"/>
   </a>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=anderlex&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=anderlex&style=flat&color=blue" alt=""/>
   <h1>
     Hello!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -31,13 +31,21 @@ I'm intern ML-engineer and Swift-developer from Russia.
 ---
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-dark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-dark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/matplotlib-dark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/scipy-dark.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/opencv-dark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sublime-dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/kaggle-dark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pycharm-dark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/visualstudio-dark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🗃️ My stats :
