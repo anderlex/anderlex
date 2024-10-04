@@ -23,7 +23,7 @@
 </div>
 
 ### 👨‍💻 About me :
-I'm intern ML-engineer and Swift-developer from Russia.
+I'm intern ML-engineer from Russia.
 - 📘 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU, Novosibirsk).
 - 👨‍🎓 Studying for a master's degree in 01.04.02 Applied Mathematics and Computer Science (MSU, Moscow).
 - 📐 Learning High Mathematics and Machine Learning.
@@ -39,11 +39,12 @@ I'm intern ML-engineer and Swift-developer from Russia.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/scipy-dark.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/opencv-dark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sublime-dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/kaggle-dark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pycharm-dark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linux-dark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/visualstudio-dark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 </div>
