@@ -62,4 +62,5 @@ I'm intern ML-engineer from Russia.
 - XGBoost
 - CatBoost
 - Shap
+- Lightning
 
