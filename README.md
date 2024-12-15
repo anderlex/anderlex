@@ -29,8 +29,7 @@
 I'm intern ML-engineer from Russia.
 - 📘 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU, Novosibirsk).
 - 👨‍🎓 Studying for a master's degree in 01.04.02 Applied Mathematics and Computer Science (MSU, Moscow).
-- 📐 Learning Machine Learning.
-- 📚 Exploring problems at Kaggle.
+- 📐 Learning Machine Learning and Deep Learning.
 ---
 ### 🗣️ Languages :
 <div>
@@ -53,6 +52,7 @@ I'm intern ML-engineer from Russia.
 - NumPy
 - SciPy
 - Matplotlib
+- BeautifulSoap
 - Torch
 - Tensorflow
 - Keras
