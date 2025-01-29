@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/d3rleex?igsh=Z2szYmM1MTM2bTVk&utm_source=qr">
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/instagram.svg" alt="Instagram Badge" width="64" height="64"/>
   </a>
-  <a href="https://t.me/and3rlex">
+  <a href="https://t.me/anderlexx">
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/telegram.svg" alt="Telegram Badge" width="64" height="64"/>
   </a>
   <a href="https://discordapp.com/users/244178805894152193/">
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About me :
 I'm intern ML-engineer from Russia.
-- 📘 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU, Novosibirsk).
+- 📘 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU, Novosibirsk). Average score: 4.7
 - 👨‍🎓 Studying for a master's degree in 01.04.02 Applied Mathematics and Computer Science (MSU, Moscow).
 - 📐 Learning Machine Learning and Deep Learning.
 ---
@@ -48,7 +48,7 @@ I'm intern ML-engineer from Russia.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
-### 🐍 Python Skillset :
+### 🐍 Python skillset :
 - NumPy
 - SciPy
 - Matplotlib
@@ -64,3 +64,4 @@ I'm intern ML-engineer from Russia.
 - Shap
 - Lightning
 
+### 👜 Work experience:
