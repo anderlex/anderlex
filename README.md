@@ -50,19 +50,7 @@ I'm intern ML-engineer from Russia.
 </div>
 
 ### 🐍 Python skillset :
-- NumPy
-- SciPy
-- Matplotlib
-- BeautifulSoap
-- Torch
-- Tensorflow
-- Keras
-- Sklearn
-- cv2
-- Pandas
-- XGBoost
-- CatBoost
-- Shap
-- Lightning
+- Data Manipulation: NumPy, SciPy, Pandas, Matplotlib, BeautifulSoap
+- Machine Learning and DL: PyTorch, Tensorflow, Sklearn, CatBoost, Lightning
 
 ### 👜 Work experience:
