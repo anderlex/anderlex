@@ -26,7 +26,7 @@
 </div>
 
 ### 👨‍💻 About me :
-I'm intern ML-engineer from Russia.
+I'm intern ML-engineer and Python-developer from Russia.
 - 📘 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU, Novosibirsk). Average score: 4.7
 - 👨‍🎓 Studying for a master's degree in 01.04.02 Applied Mathematics and Computer Science (MSU, Moscow).
 - 📐 Learning Machine Learning and Deep Learning.
@@ -46,10 +46,20 @@ I'm intern ML-engineer from Russia.
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🐍 Python skillset :
 - **Data Manipulation**: NumPy, SciPy, Pandas, Matplotlib, BeautifulSoap
 - **Machine Learning and DL**: PyTorch, Tensorflow, Sklearn, CatBoost, Lightning
+- **Telegram Bots**: Aiogram
 
 ### 👜 Work experience:
+#### 1. 2023 - 2024 (6 months):
+- **Place**: NSU
+- **Position**: Intern, Student-researcher
+- **Stack**: Python, NumPy, Sklearn, ObsPy, Gitlab
+#### 2. 2025 (Nowadays):
+- **Place**: Kept
+- **Position**: Junior Python Developer
+- **Stack**: Pandas, Excel, Gitlab, PyCharm, PostgreSQL, Vue.js
