@@ -26,39 +26,58 @@
 </div>
 
 ### 👨‍💻 About me :
-I'm intern ML-engineer and FullStack Python-developer from Russia.
-- 📘 Bachelor's degree in 02.03.01 Mathematics and Computer Science (NSU, Novosibirsk). Average score: 4.7
-- 👨‍🎓 Studying for a master's degree in 01.04.02 Applied Mathematics and Computer Science (MSU, Moscow).
+I'm intern ML-engineer and Middle Full-Stack Python-developer from Russia.
+
 ---
-### 🗣️ Languages :
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+
+### 🛠️ Technology Stack :
+<div id="technology">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" alt="PyCharm" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="CPP" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="60" height="60""/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" title="Ubuntu Linux" alt="Ubuntu Linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" title="VueJS" alt="VueJS" width="60" height="60"/>&nbsp;
 </div>
 
-### 🛠️ Tools :
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-dark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-</div>
+---
 
 ### 🐍 Python skillset :
-- **Data Manipulation**: NumPy, SciPy, Pandas, Matplotlib, BeautifulSoap
+- **Data Manipulation and Visualisation**: NumPy, SciPy, ObsPy, Pandas, Matplotlib, BeautifulSoap
 - **Machine Learning and DL**: PyTorch, Tensorflow, Sklearn, CatBoost, Lightning
 - **Telegram Bots**: Aiogram
+- **Backend**: Django
+---
 
 ### 👜 Work experience:
-#### 1. 2023 - 2024 (6 months):
-- **Place**: NSU
+> 2023 - 2024 (6 months):
+- **Place**: NSU (Novosibirsk State University)
 - **Position**: Intern, Student-researcher
 - **Stack**: Python, NumPy, Sklearn, ObsPy, Gitlab
-#### 2. 2025 (Nowadays):
-- **Place**: Kept
+
+> 2025 (Nowadays):
+- **Place**: Kept (KPMG)
 - **Position**: Middle Backend Python Developer / Intern Frontend Developer
-- **Stack**: Pandas, NumPy, Excel, Gitlab, PyCharm, PostgreSQL, Vue.js
+- **Stack**: Python, Django, Excel, Gitlab, PyCharm, PostgreSQL, Vue.js
+---
+
+### 🏫 Education:
+> 2020 - 2024:
+- **Place**: NSU (Novosibirsk State University)
+- **Faculty**: Math and Mechanic
+- **Direction**: Math and Computer Science
+- **Degree**: Bachelor (Average score: 4.7)
+
+> 2024 - 2026:
+- **Place**: MSU (Moscow State University)
+- **Faculty**: Computing Math and Cybernetics
+- **Direction**: Applied Math and Computer Science
+- **SubDirection**: Artificial Intelligence in Cybersecurity
+- **Degree**: Master (Studying Nowadays)
