@@ -61,5 +61,5 @@ I'm intern ML-engineer and Python-developer from Russia.
 - **Stack**: Python, NumPy, Sklearn, ObsPy, Gitlab
 #### 2. 2025 (Nowadays):
 - **Place**: Kept
-- **Position**: Junior Python Developer
-- **Stack**: Pandas, Excel, Gitlab, PyCharm, PostgreSQL, Vue.js
+- **Position**: Middle Backend Python Developer / Intern Frontend Developer
+- **Stack**: Pandas, NumPy, Excel, Gitlab, PyCharm, PostgreSQL, Vue.js
