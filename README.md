@@ -50,10 +50,10 @@ I'm intern ML-engineer and Middle Full-Stack Python-developer from Russia.
 ---
 
 ### 🐍 Python skillset :
-- **Data Manipulation and Visualisation**: NumPy, SciPy, ObsPy, Pandas, Matplotlib, BeautifulSoap
+- **Data Manipulation and Visualisation**: NumPy, SciPy, ObsPy, Pandas, Matplotlib, BeautifulSoap and etc.
 - **Machine Learning and DL**: PyTorch, Tensorflow, Sklearn, CatBoost, Lightning
 - **Telegram Bots**: Aiogram
-- **Backend**: Django
+- **Backend**: Django, Flask
 ---
 
 ### 👜 Work experience:
@@ -64,8 +64,8 @@ I'm intern ML-engineer and Middle Full-Stack Python-developer from Russia.
 
 > 2025 (Nowadays):
 - **Place**: Kept (KPMG)
-- **Position**: Middle Backend Python Developer / Intern Frontend Developer
-- **Stack**: Python, Django, Excel, Gitlab, PyCharm, PostgreSQL, Vue.js
+- **Position**: Middle Backend Python Developer / Junior Frontend Developer
+- **Stack**: Python, Django, Excel, Gitlab, PyCharm, VsCode, PostgreSQL, Vue.js
 ---
 
 ### 🏫 Education:
