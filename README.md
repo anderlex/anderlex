@@ -26,7 +26,7 @@
 </div>
 
 ### 👨‍💻 About me :
-I'm intern ML-engineer and Middle Full-Stack Python-developer from Russia.
+I'm intern AI-engineer and Middle Full-Stack Python-developer from Russia.
 
 ---
 
