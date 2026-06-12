@@ -53,7 +53,7 @@ I'm intern AI-engineer and Middle Full-Stack Python-developer from Russia.
 - **Data Manipulation and Visualisation**: NumPy, SciPy, ObsPy, Pandas, Matplotlib, BeautifulSoap and etc.
 - **Machine Learning and DL**: PyTorch, Tensorflow, Sklearn, CatBoost, Lightning
 - **Telegram Bots**: Aiogram
-- **Backend**: Django, Flask
+- **Backend**: Django, FASTAPI, celery
 ---
 
 ### 👜 Work experience:
@@ -80,4 +80,4 @@ I'm intern AI-engineer and Middle Full-Stack Python-developer from Russia.
 - **Faculty**: Computing Math and Cybernetics
 - **Direction**: Applied Math and Computer Science
 - **SubDirection**: Artificial Intelligence in Cybersecurity
-- **Degree**: Master (Studying Nowadays)
+- **Degree**: Master (Average score: 4.3)
