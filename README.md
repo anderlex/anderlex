@@ -53,7 +53,7 @@ I'm intern AI-engineer and Middle Full-Stack Python-developer from Russia.
 - **Data Manipulation and Visualisation**: NumPy, SciPy, ObsPy, Pandas, Matplotlib, BeautifulSoap and etc.
 - **Machine Learning and DL**: PyTorch, Tensorflow, Sklearn, CatBoost, Lightning
 - **Telegram Bots**: Aiogram
-- **Backend**: Django, FASTAPI, celery
+- **Backend**: Django, FAST Api, celery
 ---
 
 ### 👜 Work experience:
